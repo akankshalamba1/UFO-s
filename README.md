@@ -23,7 +23,21 @@ JavaScript is a well-established coding language that was designed to enhance HT
 
 HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes. 
 
-## Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+## Results: 
+
+Our website looks like as follows:
+
+![website](https://user-images.githubusercontent.com/111251560/202191421-94b6a89c-cc1a-421e-a3b2-313ddcd8d932.png)
+
+![UFO_nasa](https://user-images.githubusercontent.com/111251560/202191483-fe2878d9-b250-4b73-83f4-fb3172c76d40.jpg)
+
+- **Data filteration based on Date, State, Country and Shape**
+
+![filter1](https://user-images.githubusercontent.com/111251560/202192078-54c9a8b8-9003-456a-a882-ccb3de7b584f.png)
+
+- **Data filteration based on City, State, Coutry**
+
+![filter2](https://user-images.githubusercontent.com/111251560/202192644-ee460f40-c999-4305-b8e2-ea1f7ff56bce.png)
 
 ## Summary: 
 In a summary statement, describe one drawback of this new design and two recommendations for further development.
