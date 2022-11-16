@@ -55,4 +55,13 @@ In order to do this filteration following steps were followed:
 ![filter2](https://user-images.githubusercontent.com/111251560/202192644-ee460f40-c999-4305-b8e2-ea1f7ff56bce.png)
 
 ## Summary: 
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+
+### Drawback of the website:
+
+Website is of great use to user who is interested in looking for a particular data of UFO sighting in the month of January in 2010 but if user is looking for data of a different year or different month then the website do not produce any output as the data set is only limited to the month of January in 2010. 
+
+### Recommendation for further development:
+
+- Website data need to be more diverse: The website data need to be more detailed to provide all the information about UFO sightings for multiple years and all the months of the year. So that user can make analysis based on this data.
+
+- Website needs more visuals: The data of sightings could be supported by the images of the respected sightings to give it more visuals and a future reference of what to look for in case of a sighting.
