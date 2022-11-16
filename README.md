@@ -17,6 +17,11 @@ In this module, we work on UFO sightings data and created a webpage and dynamic 
 ### Coding tools:
 - **JavaScript is used as the primary coding language:**
 
+JavaScript is an established programming language designed to extend HTML. It is the backbone of many popular visualization libraries such as Plotly and is often used to create custom dashboards. JavaScript also offers advanced customization.
+
+- **HTML:**
+HTML is a standardized text file tagging system that creates the structure of almost every page you find and use on the web. HTML that adds page breaks, paragraphs, bold, italics, etc. HTML builds this structure using tags that tell the browser how to handle the text.
+
 ## Results: 
 
 UFO Sightings: Fact or Fancy? website showcases UFO sighting data in US. Website provides various criterias to filter the data and gather the required information. The data is filtered based on the "Date", "City", "State", "Country" and "Shape". In order to use the filter the user has to enter the value in the filter colomn and press "Enter", the table will auto populate the filtered output.
