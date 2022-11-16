@@ -31,7 +31,7 @@ UFO Sightings: Fact or Fancy? website showcases UFO sighting data in US. Website
 
 [HTML_file](/index.html)
 
-[Javascript_file](/static/js/app/js)
+[app.js](/static/js/app.js)
 
 ![website](https://user-images.githubusercontent.com/111251560/202191421-94b6a89c-cc1a-421e-a3b2-313ddcd8d932.png)
 
