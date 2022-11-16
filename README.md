@@ -29,8 +29,6 @@ Our website looks like as follows:
 
 ![website](https://user-images.githubusercontent.com/111251560/202191421-94b6a89c-cc1a-421e-a3b2-313ddcd8d932.png)
 
-![UFO_nasa](https://user-images.githubusercontent.com/111251560/202191483-fe2878d9-b250-4b73-83f4-fb3172c76d40.jpg)
-
 - **Data filteration based on Date, State, Country and Shape**
 
 ![filter1](https://user-images.githubusercontent.com/111251560/202192078-54c9a8b8-9003-456a-a882-ccb3de7b584f.png)
