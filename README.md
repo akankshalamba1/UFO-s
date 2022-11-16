@@ -6,6 +6,14 @@
 
 In this module, we work on UFO sightings data and created a webpage and dynamic table to organize UFO data that is stored as a JavaScript array, or list. This table will have the ability to filter data based on certain criteria and will be created using  JavaScript, while HTML/CSS and Bootstrap were used to modify the aesthetics of the website.
 
+### Purpose of analysis:
+- Explain the advantages and disadvantages of JavaScript "Standard" and JavaScript Version ES6+.
+- Describes JavaScript syntax and ideal use cases.
+- Create and implement JavaScript functions, including built-in functions.
+- Converts JavaScript functions to arrow functions.
+- Create and expand ForEach (JavaScript for loop).
+- Dynamically create, populate, and filter tables using JavaScript and HTML
+
 ### Coding tools:
 - **JavaScript is used as the primary coding language:**
  
