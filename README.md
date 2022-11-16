@@ -16,24 +16,36 @@ In this module, we work on UFO sightings data and created a webpage and dynamic 
 
 ### Coding tools:
 - **JavaScript is used as the primary coding language:**
- 
-JavaScript is a well-established coding language that was designed to enhance HTML. It's the backbone of many popular visualization libraries, such as Plotly, and is often used to create custom dashboards. JavaScript also provides a high level of customization: the dashboards built to deliver visual data, such as maps or graphs, can be as simple or complex as needed.
-
-- **HTML:**
-
-HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes. 
 
 ## Results: 
 
-Our website looks like as follows:
+UFO Sightings: Fact or Fancy? website showcases UFO sighting data in US. Website provides various criterias to filter the data and gather the required information. The data is filtered based on the "Date", "City", "State", "Country" and "Shape". In order to use the filter the user has to enter the value in the filter colomn and press "Enter", the table will auto populate the filtered output.
 
 ![website](https://user-images.githubusercontent.com/111251560/202191421-94b6a89c-cc1a-421e-a3b2-313ddcd8d932.png)
 
 - **Data filteration based on Date, State, Country and Shape**
 
+In order to do this filteration following steps were followed:
+- Date was selected as "1/9/2010"
+- Country selected as "US"
+- Shape selected as "light"
+- Press "ENTER"
+- Required table is populated
+
+### Result is attached below:
+
 ![filter1](https://user-images.githubusercontent.com/111251560/202192078-54c9a8b8-9003-456a-a882-ccb3de7b584f.png)
 
 - **Data filteration based on City, State, Coutry**
+
+In order to do this filteration following steps were followed:
+- City selected as "El-Cajon" 
+- State selected as "CA"
+- Country selected as "US"
+- Press "ENTER"
+- Required table is populated. 
+
+### Result is attached below:
 
 ![filter2](https://user-images.githubusercontent.com/111251560/202192644-ee460f40-c999-4305-b8e2-ea1f7ff56bce.png)
 
