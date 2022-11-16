@@ -8,7 +8,7 @@ In this module, we work on UFO sightings data and created a webpage and dynamic 
 
 Following data was used for the UFO sighting analysis:
 
-[Data](/static/js/app.js)
+[Data](/static/js/data.js)
 
 ### Purpose of analysis:
 - Explain the advantages and disadvantages of JavaScript "Standard" and JavaScript Version ES6+.
@@ -30,6 +30,8 @@ HTML is a standardized text file tagging system that creates the structure of al
 UFO Sightings: Fact or Fancy? website showcases UFO sighting data in US. Website provides various criterias to filter the data and gather the required information. The data is filtered based on the "Date", "City", "State", "Country" and "Shape". In order to use the filter the user has to enter the value in the filter colomn and press "Enter", the table will auto populate the filtered output.
 
 [HTML_file](/index.html)
+
+[Javascript_file](/static/js/app/js)
 
 ![website](https://user-images.githubusercontent.com/111251560/202191421-94b6a89c-cc1a-421e-a3b2-313ddcd8d932.png)
 
