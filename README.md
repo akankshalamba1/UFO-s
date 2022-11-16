@@ -4,7 +4,7 @@
 
 ## Overview of the analysis:
 
-In this module, we work on UFO sightings data and created a webpage and dynamic table to organize UFO data that is stored as a JavaScript array, or list. This table will have the ability to filter data based on certain criteria and will be created using 
+In this module, we work on UFO sightings data and created a webpage and dynamic table to organize UFO data that is stored as a JavaScript array, or list. This table will have the ability to filter data based on certain criteria and will be created using  JavaScript, while HTML/CSS and Bootstrap were used to modify the aesthetics of the website.
 
 ### Coding tools:
 - **JavaScript is used as the primary coding language:**
