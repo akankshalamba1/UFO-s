@@ -4,7 +4,11 @@
 
 ## Overview of the analysis:
 
-In this module, we work on UFO sightings data and created a webpage and dynamic table to organize UFO data that is stored as a JavaScript array, or list. This table will have the ability to filter data based on certain criteria and will be created using  JavaScript, while HTML/CSS and Bootstrap were used to modify the aesthetics of the website.
+In this module, we work on UFO sightings data and created a webpage and dynamic table to organize UFO data that is stored as a JavaScript array, or list. This table will have the ability to filter data based on certain criteria and will be created using  JavaScript, while HTML/CSS and Bootstrap were used to modify the aesthetics of the website. 
+
+Following data was used for the UFO sighting analysis:
+
+[Data](/static/js/app.js)
 
 ### Purpose of analysis:
 - Explain the advantages and disadvantages of JavaScript "Standard" and JavaScript Version ES6+.
@@ -16,7 +20,6 @@ In this module, we work on UFO sightings data and created a webpage and dynamic 
 
 ### Coding tools:
 - **JavaScript is used as the primary coding language:**
-
 JavaScript is an established programming language designed to extend HTML. It is the backbone of many popular visualization libraries such as Plotly and is often used to create custom dashboards. JavaScript also offers advanced customization.
 
 - **HTML:**
@@ -25,6 +28,8 @@ HTML is a standardized text file tagging system that creates the structure of al
 ## Results: 
 
 UFO Sightings: Fact or Fancy? website showcases UFO sighting data in US. Website provides various criterias to filter the data and gather the required information. The data is filtered based on the "Date", "City", "State", "Country" and "Shape". In order to use the filter the user has to enter the value in the filter colomn and press "Enter", the table will auto populate the filtered output.
+
+[HTML_file](/index.html)
 
 ![website](https://user-images.githubusercontent.com/111251560/202191421-94b6a89c-cc1a-421e-a3b2-313ddcd8d932.png)
 
