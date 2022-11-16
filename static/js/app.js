@@ -31,8 +31,7 @@ clearEntries.on("click", function() {
 });
 
 // 1. Create a variable to keep track of all the filters as an object.
-var filters = {
-};
+var filters = [];
 
 // 3. Use this function to update the filters. 
 function updateFilters() {
